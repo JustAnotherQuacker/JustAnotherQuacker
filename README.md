@@ -19,6 +19,8 @@
 - 🎯 My goal: Build interfaces that feel like magic ✨  
 
 ---
+<img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" />
+
 
 ### 🛠️ Tech Stack
 
